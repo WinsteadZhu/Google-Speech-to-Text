@@ -1,0 +1,12 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 44100,
+      "languageCode": "en-US",
+      "enableWordTimeOffsets": false,
+      "audio_channel_count" : 2
+  },
+  "audio": {
+      "uri":"gs://podcast-trailer-trial/Episode_154_The_Night_of_the_Party_Part_1.flac"
+  }
+}
